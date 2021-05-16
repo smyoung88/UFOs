@@ -14,8 +14,8 @@ A preview of the website is below. Please note: by default, every single UFO sig
 Follow these instructions to find specific UFO sightings:
 1. Utilize the provided filters on the left side of the table to input desired constraints in the boxes that are highlighted in yellow. 
 2. Examples of the required input format are shown greyed out inside the boxes. 
-3. Once you input a filter into one or more of the input boxes, press "Enter" on your keyboard and the respective filtered UFO sighting data will appear in the table to the right which is also highlighted in yellow in the preview. 
-4. To clear out a search or remove one of the filters, simply delete the text in the text box you no longer want filtered and press "Enter" on your keyboard, and that will automatically remove that respective filter from the table on the right.
+3. Once you input a filter into one or more of the input boxes, press "Enter" on your keyboard and the respective filtered UFO sighting data will appear in the table to the right highlighted in yellow in the preview. 
+4. To clear out a search or remove one of the filters, simply delete the text in the text box you no longer want filtered and press "Enter" on your keyboard. This will remove the filter and automatically update the table on the right.
 
 Enjoy!
 
