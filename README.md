@@ -3,22 +3,26 @@
 ## Overview
 The purpose of this repository is to create an interactive webpage that allows readers to parse data around UFO sightings. To do this, two things were built: a webpage that allows users to view the data and a dynamic table that presents it. JavaScript was utilized to build the table using data stored in a JavaScript Array and create filters designed to make the table fully dynamic. The newly filtered table was placed into a customized HTML file for easy viewing. The webpage was enhanced using Bootstrap to spruce up the appearance for viewers.
 
-## Results: 
-A preview of the website is below:
-
-Please note: by default, every single UFO sighting is shown in the bottom table until filtered.
+## Results
+A preview of the website is below. Please note: by default, every single UFO sighting is shown in the bottom table until filtered.
 
 ### UFO Sightings Preview
 <p align="center">
 <img src="https://github.com/smyoung88/UFOs/blob/main/static/images/main.png" title="UFO Sightings">
 </p>
 
-To find a specific UFO sighting, utilize the provided filters on the left side of the table to input desired constraints in the boxes that are highlighted in yellow. Examples of the required input format are shown greyed out inside the boxes. Once you input a filter into one or more of the input boxes, the respective filtered UFO sighting data will appear in the table to the right which is also highlighted in yellow in the preview. Enjoy!
+Follow these instructions to find specific UFO sightings:
+1. Utilize the provided filters on the left side of the table to input desired constraints in the boxes that are highlighted in yellow. 
+2. Examples of the required input format are shown greyed out inside the boxes. 
+3. Once you input a filter into one or more of the input boxes, press "Enter" on your keyboard and the respective filtered UFO sighting data will appear in the table to the right which is also highlighted in yellow in the preview. 
+4. To clear out a search or remove one of the filters, simply delete the text in the text box you no longer want filtered and press "Enter" on your keyboard, and that will automatically remove that respective filter from the table on the right.
 
-## Summary:
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Enjoy!
+
+## Summary
 
 **What is a drawback of the design of this webpage?**
+
 One drawback of this design is that only single inputs can be entered for each category, so the user is limited to very specific sightings.
 
 **What are two recommendations for further development**
